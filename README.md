@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ 27 years old, about 5 years working as linux system administrator<br>📚 Education:<br> - BSTU "VOENMEH" NAMED AFTER D.F. USTINOV - Software development - 2018<br>- ITMO University - System administration (honours) - 2021<br>- Currently learning Frontend dev (JS, React, Node.js) at Sberbank Corporate University</p>
+<p align="left">✨ 27 years old, about 5 years working as linux system administrator<br>📚 Education:<br> - BSTU "VOENMEH" NAMED AFTER D.F. USTINOV - Software development - 2018<br>- Graduate studies at ITMO University - System administration (honours) - 2021<br>- Currently learning Frontend dev (JS, React, Node.js) at Sberbank Corporate University</p>
 
 ###
 
