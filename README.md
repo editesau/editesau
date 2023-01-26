@@ -21,13 +21,13 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" width="52" alt="ubuntu logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
-  <img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" height="40" width="52" alt="zabbix logo"  />
+  <img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" height="40" width="40" alt="zabbix logo"  />
   <img src="https://www.vectorlogo.zone/logos/graylog/graylog-icon.svg" height="40" width="52" alt="graylog logo"  />
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" height="40" width="52" alt="grafana logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="52" alt="redux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="nodejs logo"  />
   <img src="https://img.icons8.com/color/48/null/java-web-token.png" height="40" width="52" alt="JWT logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
@@ -42,5 +42,5 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-  <img src="https://https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" height="40" width="52" alt="express js logo"  />
+  <img src="https://img.icons8.com/color/48/null/express-js.png" height="40" width="40" alt="express js logo"  />
 </div>
