@@ -44,4 +44,5 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
   <img src="https://img.icons8.com/color/48/null/express-js.png" height="40" width="40" alt="express js logo"  />
+  <img src="https://www.codewars.com/users/editesau/badges/large" alt="codewars badge"  />
 </div>
