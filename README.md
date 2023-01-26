@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Aleksei. I'm from Russia, St. Ptersburg.</p>
+<p align="left">My name is Aleksei. I'm from Russia, St. Petersburg.</p>
 
 ###
 
